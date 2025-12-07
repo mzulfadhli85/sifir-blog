@@ -25,11 +25,11 @@ Sistem Dots ni adalah cara mudah untuk anak-anak lihat prestasi sifir mereka. Se
 
 Warna-warna ini juga menunjukkan secara visual prestasi anak-anak.
 
-Warna kelabu cair - Belum jawab  
-Warna kelabu gelap - Jawapan betul  
-Warna hitam - Sudah mahir  
-Warna merah - Jawapan salah  
-Warna merah berkelip - Jawapan kerap salah
+- Warna kelabu cair - Belum jawab  
+- Warna kelabu gelap - Jawapan betul  
+- Warna hitam - Sudah mahir  
+- Warna merah - Jawapan salah  
+- Warna merah berkelip - Jawapan kerap salah
 
 ## Warna kelabu cair - Belum jawab
 Anak belum jawab sifir ini lagi. Dot ni akan mula berwarna bila anak mula jawab.
