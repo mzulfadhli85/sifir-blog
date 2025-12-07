@@ -31,9 +31,7 @@ Warna-warna ini juga menunjukkan secara visual prestasi anak-anak.
 - Warna merah - Jawapan salah  
 - Warna merah berkelip - Jawapan kerap salah
 
-image: "/updates/dots-dalam-app-sifir.png"
-image_alt: "Contoh paparan Sistem Dots dalam App Sifir"
-image_caption: "Setiap warna mewakili tahap penguasaan sifir."
+![Contoh paparan Sistem Dots dalam App Sifir](/updates/dots-dalam-app-sifir.png)
 
 ## Warna kelabu cair - Belum jawab
 Anak belum jawab sifir ini lagi. Dot ni akan mula berwarna bila anak mula jawab.
