@@ -8,7 +8,7 @@ tags: ["feature", "adaptive", "update"]
 app_version: "1.4.0"
 ---
 
-## 🎯 Ringkasan Cepat
+## Ringkasan Cepat
 
 Mulai versi ini, Sifir akan “belajar” daripada cara anak menjawab.  
 Soalan yang susah untuk anak akan muncul lebih kerap, dan soalan yang dia dah hafal akan keluar sekali-sekala sahaja.
@@ -17,7 +17,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ---
 
-## 🔧 Apa yang Berubah
+## Apa yang Berubah
 
 - Soalan sifir tidak lagi 100% rawak.
 - Setiap fakta sifir (contoh: `7 × 8`, `9 × 6`) ada rekod betul/salah sendiri.
@@ -27,7 +27,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ---
 
-## 👩‍👧 Apa Maksudnya Untuk Anak Anda
+## Apa Maksudnya Untuk Anak Anda
 
 - **Masa latihan lebih bernilai.** Kurang ulang benda yang sudah senang, lebih masa pada bahagian yang betul-betul perlukan bantuan.
 - **Tahap cabaran lebih seimbang.** Tidak terlalu senang sampai bosan, tidak terlalu susah sampai putus asa.
@@ -35,7 +35,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ---
 
-## 🏠 Cara Cuba Di Rumah
+## Cara Cuba Di Rumah
 
 1. Minta anak pilih satu jadual sifir yang dia sedang belajar, contoh **sifir 7**.
 2. Biarkan dia menjawab beberapa pusingan sehingga anda nampak corak pada dots/hot zone.
@@ -53,7 +53,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ---
 
-## 💬 Kalau Ada Maklum Balas…
+## Kalau Ada Maklum Balas…
 
 Saya bina ciri ini dengan matlamat satu sahaja: **membantu anak anda rasa lebih yakin dengan sifir.**
 
