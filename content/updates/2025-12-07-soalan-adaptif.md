@@ -1,62 +1,42 @@
 ---
-title: "Soalan Adaptif: Sifir Ikut Tahap Anak"
-subtitle: "Sifir ikut tahap anak, bukan anak ikut pace app."
-date: "2025-12-07"
-author: "Zulfadhli"
-excerpt: "Mulai versi ini, Sifir akan belajar daripada cara anak menjawab. Soalan yang susah akan keluar lebih kerap, yang senang berkurang supaya latihan lebih fokus dan tak membosankan."
-tags: ["feature", "adaptive", "update"]
-app_version: "1.4.0"
+title: "Enjin Soalan V2.0"
+excerpt: "Penjana soalan Sifir kini lebih pintar, lebih adaptif, dan lebih fokus pada kelemahan sebenar anak anda."
+app_version: "2.0"
+tags: ["adaptive-engine", "mathematics", "update"]
+date: 2025-12-07
 ---
 
-## Ringkasan
+# Enjin Soalan V2.0
 
-Mulai versi ini, Sifir akan “belajar” daripada cara anak menjawab.  
-Soalan yang susah untuk anak akan muncul lebih kerap, dan soalan yang dia dah hafal akan keluar sekali-sekala sahaja.
+Antara nadi utama App Sifir ni adalah **sistem soalannya**.
 
-Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
+Soalan dihasilkan mengikut prestasi kanak-kanak itu sendiri.  
+Jika *3 × 7* kerap salah, anak anda akan menerima soalan *3 × 7* lebih kerap.
 
----
+Versi awal sistem ini masih belum cukup baik.  
+Ada beberapa isu seperti:
 
-## Apa yang Berubah
+- soalan 9 dan 10 jarang muncul,  
+- fakta yang sudah mahir masih ditanya terlalu banyak kali,  
+- pengagihan soalan tidak cukup seimbang.
 
-- Soalan sifir tidak lagi 100% rawak.
-- Setiap fakta sifir (contoh: `7 × 8`, `9 × 6`) ada rekod betul/salah sendiri.
-- Fakta yang kerap salah akan diulang lebih kerap sehingga anak semakin stabil.
-- Fakta yang anak selalu betul akan dikurangkan tetapi masih muncul sekali sekala supaya tak lupa.
-- Paparan seperti **progress dots** dan **hot zone** membantu anda nampak bahagian yang lemah dengan jelas.
+Untuk kemaskini terbaru ini, saya telah **menaik taraf enjin soalan kepada versi baharu** yang jauh lebih adaptif berdasarkan jawapan pengguna.
 
 ---
 
-## Apa Maksudnya Untuk Anak Anda
+## Apa yang sistem ini lakukan untuk bantu anak anda?
 
-- **Masa latihan lebih bernilai.** Kurang ulang benda yang sudah senang, lebih masa pada bahagian yang betul-betul perlukan bantuan.
-- **Tahap cabaran lebih seimbang.** Tidak terlalu senang sampai bosan, tidak terlalu susah sampai putus asa.
-- **Ibu ayah nampak punca sebenar.** Bukan sekadar “lemah sifir 7”, tetapi boleh nampak tepatnya pada fakta mana (contoh: 7 × 6, 7 × 8).
-
----
-
-## Cara Cuba Di Rumah
-
-1. Minta anak pilih satu jadual sifir yang dia sedang belajar, contoh **sifir 7**.
-2. Biarkan dia menjawab beberapa pusingan sehingga anda nampak corak pada dots/hot zone.
-3. Perhatikan:
-   - Fakta mana yang paling kerap salah?
-   - Fakta mana yang sudah sangat laju dan yakin?
-4. Pilih 2–3 fakta yang paling susah, dan jadikan ia “musuh utama minggu ini”.
-5. Bantu anak cipta cara ingat sendiri, contohnya:
-   - buat **cerita ringkas**,
-   - lukis **gambar lucu**,
-   - atau cipta **lagu pendek** untuk fakta itu.
-6. Esok atau lusa, buka semula Sifir dan lihat:
-   - adakah fakta yang sama masih merah,
-   - atau sudah mula stabil dan bertukar hijau?
+1. **Setiap fakta sifir (contoh: 7 × 8, 9 × 6) mempunyai rekod prestasi sendiri.**
+2. **Fakta yang kerap salah akan diulang lebih kerap** sehingga anak semakin stabil.
+3. **Fakta yang selalu betul akan dimunculkan lebih jarang**, tetapi tetap keluar sekali sekala supaya tidak lupa.
+4. **Visual seperti progress dots dan hot zone** membantu ibu ayah melihat bahagian yang lemah dengan cepat.
 
 ---
 
-## Ada Maklum Balas??
+## Bagaimana sistem ini membantu anak anda?
 
-Saya bina ciri ini dengan matlamat satu sahaja: **membantu anak anda rasa lebih yakin dengan sifir.**
+1. **Latihan lebih optimum** — fokus pada kelemahan sambil memperkukuhkan fakta yang sudah dikuasai.
+2. **Tahap cabaran lebih seimbang**: tidak terlalu senang sehingga bosan, tidak terlalu susah sehingga putus asa.
+3. **Ibu ayah dapat lihat punca sebenar masalah** — bukan sekadar “lemah sifir 7”, tetapi pada fakta mana yang tepat (contoh: *7 × 6*, *7 × 8*).
 
-Kalau ada pengalaman menarik, cadangan atau bahagian yang masih mengelirukan,
-boleh kongsi terus dengan saya melalui WhatsApp atau media sosial Sifir.  
-Maklum balas ibu ayah sangat membantu saya untuk baiki app ini dari semasa ke semasa.
+---
