@@ -3,7 +3,7 @@ title: "Enjin Soalan V2.0"
 date: 2025-12-07
 app_version: "2.0"
 tags: ["adaptive-engine", "update"]
-excerpt: "Kemaskini besar untuk penjanaan soalan adaptif dalam App Sifir."
+excerpt: "Soalan dalam App Sifir kini lebih adaptif mengikut keupayaan anak anda."
 ---
 
 Antara nadi utama App Sifir ni adalah sistem soalannya.
