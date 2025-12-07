@@ -1,7 +1,11 @@
-# Soalan Adaptif: Sifir Ikut Tahap Anak
-
-*Tarikh: 7 Disember 2025* 
-
+---
+title: "Soalan Adaptif: Sifir Ikut Tahap Anak"
+subtitle: "Sifir ikut tahap anak, bukan anak ikut pace app."
+date: "2025-12-07"
+author: "Zulfadhli"
+excerpt: "Mulai versi ini, Sifir akan belajar daripada cara anak menjawab. Soalan yang susah akan keluar lebih kerap, yang senang berkurang supaya latihan lebih fokus dan tak membosankan."
+tags: ["feature", "adaptive", "update"]
+app_version: "1.4.0"
 ---
 
 ## 🎯 Ringkasan Cepat
@@ -51,7 +55,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ## 💬 Kalau Ada Maklum Balas…
 
-Saya bina ciri ini dengan matlamat satu sahaja: **membantu anak anda rasa lebih yakin dengan sifir**.
+Saya bina ciri ini dengan matlamat satu sahaja: **membantu anak anda rasa lebih yakin dengan sifir.**
 
 Kalau ada pengalaman menarik, cadangan atau bahagian yang masih mengelirukan,
 boleh kongsi terus dengan saya melalui WhatsApp atau media sosial Sifir.  
