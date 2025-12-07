@@ -15,7 +15,7 @@ Adalah beberapa isu macam soalan 9 dan 10 jarang keluar, soalan yang dah mahir m
 
 Jadi untuk kemaskini terbaru ni, saya telah tambah baik penjanaan soalan yang lebih adaptif dengan jawapan pengguna.
 
-# Apa yang sistem ini lakukan untuk bantu anak anda?
+# Apa yang sistem ini lakukan?
 
 1. Setiap jawapan (contoh: 7 × 8, 9 × 6) ada rekod betul/salah sendiri.
 2. Jawapan yang kerap salah akan diulang lebih kerap sehingga anak semakin stabil.
