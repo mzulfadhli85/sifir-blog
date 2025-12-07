@@ -5,7 +5,7 @@ date: "2025-12-08"
 excerpt: "Cara mudah untuk lihat prestasi anak secara visual"
 app_version: "2.1.1"
 tags: ["kemaskini", "prestasi", "dots"]
-og_image: ""
+og_image: "/updates/dots-dalam-app-sifir.png"
 
 summary: "Sistem Dots menukar warna secara responsif berdasarkan prestasi jawapan anak, memberi gambaran jelas tentang kemajuan sifir mereka."
 why_it_matters: "Ramai ibu ayah sukar menilai sejauh mana anak sudah menguasai sifir. Sistem Dots memberi visual yang mudah difahami tanpa perlu membaca laporan panjang. Setiap warna membantu ibu ayah lihat bahagian mana anak masih lemah, mana yang sudah mahir, dan mana yang perlu lebih latihan."
