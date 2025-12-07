@@ -2,7 +2,7 @@
 title: "Sistem Dots dalam Sifir"
 subtitle: "Cara mudah untuk lihat prestasi anak secara visual"
 date: "2025-12-08"
-excerpt: "Penerangan lengkap tentang maksud setiap warna dalam Sistem Dots — membantu ibu ayah faham prestasi sifir anak dengan cepat."
+excerpt: "Cara mudah untuk lihat prestasi anak secara visual"
 app_version: "2.1.1"
 tags: ["kemaskini", "prestasi", "dots"]
 og_image: ""
