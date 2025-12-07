@@ -8,7 +8,7 @@ tags: ["feature", "adaptive", "update"]
 app_version: "1.4.0"
 ---
 
-## Ringkasan Cepat
+## Ringkasan
 
 Mulai versi ini, Sifir akan “belajar” daripada cara anak menjawab.  
 Soalan yang susah untuk anak akan muncul lebih kerap, dan soalan yang dia dah hafal akan keluar sekali-sekala sahaja.
@@ -53,7 +53,7 @@ Tujuannya: **latihan yang lebih fokus, kurang bosan, dan lebih cepat mahir.**
 
 ---
 
-## Kalau Ada Maklum Balas…
+## Ada Maklum Balas??
 
 Saya bina ciri ini dengan matlamat satu sahaja: **membantu anak anda rasa lebih yakin dengan sifir.**
 
